@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoScreens</string>
+    <string name="home">go back to first screen</string>
+    <string name="img">Image</string>
+    <string name="homeStr">Home</string>
+    <string name="img_off">img off</string>
+    <string name="img_on">img on</string>
+    <string name="sound">SOUND</string>
+</resources>
